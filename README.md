@@ -95,7 +95,7 @@ Once sharing is turned on, the app shows you the server addresses. Use them like
 
 1. Clone the repository
    ```
-   git clone https://github.com/danielezeobinna/NetworkShare.git
+   git clone https://github.com/danielezecode/NetworkShare.git
    ```
 
 2.  The app uses AdMob for ads. If you're building for personal/development use, you can replace the AdMob IDs in local.properties with the [AdMob test IDs](https://developers.google.com/admob/android/test-ads) or remove the ad integration entirely.
